@@ -1,0 +1,4 @@
+[console_scripts]
+cbs = cbsodata.__main__:main
+cbsodata = cbsodata.__main__:main
+
